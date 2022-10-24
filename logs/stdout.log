@@ -1,0 +1,32 @@
+2022-10-24 14:41:48,359 [main] - ============================== Logging Started ==============================
+    java.vm.name = Java HotSpot(TM) Client VM
+    java.vm.info = mixed mode
+    java.runtime.version = 1.7.0_76-b13
+    java.home = D:\Program Files (x86)\SMS\SMSClient\jre
+    java.class.version = 51.0
+    os.arch = x86
+    os.name = Windows 8.1
+    os.version = 6.3
+    sun.os.patch.level = 
+    file.encoding = GBK
+    user.name = suomitek
+    user.country = CN
+    user.dir = D:\Program Files (x86)\SMS\SMSClient
+    java.io.tmpdir = C:\Users\suomitek\AppData\Local\Temp\
+
+2022-10-24 14:49:50,528 [main] - ============================== Logging Started ==============================
+    java.vm.name = Java HotSpot(TM) Client VM
+    java.vm.info = mixed mode
+    java.runtime.version = 1.7.0_76-b13
+    java.home = D:\Program Files (x86)\SMS\SMSClient\jre
+    java.class.version = 51.0
+    os.arch = x86
+    os.name = Windows 8.1
+    os.version = 6.3
+    sun.os.patch.level = 
+    file.encoding = GBK
+    user.name = suomitek
+    user.country = CN
+    user.dir = D:\Program Files (x86)\SMS\SMSClient
+    java.io.tmpdir = C:\Users\suomitek\AppData\Local\Temp\
+
